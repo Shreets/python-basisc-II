@@ -1,0 +1,10 @@
+echo "# python-basisc-II" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Shreets/python-basisc-II.git
+git push -u origin master
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/Shreets/python-basisc-II.git
+git push -u origin master
